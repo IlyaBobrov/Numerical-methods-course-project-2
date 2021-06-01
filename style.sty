@@ -1,0 +1,90 @@
+\usepackage[russian]{babel}     
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{multicol}
+
+\newcommand{\dhrule}[3] {
+    {
+        \parindent 0pt
+        \rule{\textwidth}{#1}
+        
+        \vspace{\dimexpr - \baselineskip + 1mm + #3 - 1pt}
+        
+        \rule{\textwidth}{#2}
+    }
+}
+
+\newcommand{\uline}[1]{\underline{#1 \vphantom{lp}}}
+
+\newcommand{\fefutitlepage}[5]{
+    {
+        \parindent 0pt
+        \thispagestyle{empty}
+        
+        \begin{center}
+            \includegraphics[scale=0.2]{fefulogo.pdf}
+            
+            { \fontsize{9}{9} \selectfont МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ}
+            { \fontsize {10}{10} \selectfont Федеральное государственное автономное образовательное учреждение высшего образования}
+            
+            \textbf{<<Дальневосточный федеральный университет>>}
+            
+            \textbf{(ДВФУ)}
+            
+            \dhrule{3pt}{1pt}{0pt}
+            
+            \textbf{ШКОЛА ЕСТЕСТВЕННЫХ НАУК}
+            
+            \vspace{10pt}
+            
+            \textbf{Кафедра информатики, математического и компьютерного моделирования}
+            
+            \vspace{35pt}
+            
+            \textbf{Реферат}
+             \vspace{10pt}
+            
+            \selectfont по численным методам решения\\ дифференциальных уравнений
+            на тему\\ "Решение СЛАУ с помощью QR-разложения"\\
+            \vspace{10pt}
+            Направление подготовки \\
+            01.03.02 "Прикладная математика и информатика"
+        \end{center}
+        
+        \vspace{10pt}
+        
+        \begin{multicols}{2}
+        
+            \vfill\null
+            
+            \columnbreak
+            
+           Выполнил студент \newline гр. #1
+           
+           \underset{
+           	\textit{(ФИО)}
+           }{
+           	\uline{\text{#2}}
+           }
+           \underset{
+           	\textit{(подпись)}
+           }{
+           	\uline{\hspace{60pt}}
+           }
+           
+           \vspace{10pt}
+           
+           тел.\text{ #3 } 
+           
+           \vspace{10pt} 
+            <<\underline{ #4 }>> \underline{#5} 20\underline{21} г.
+        \end{multicols}
+        
+        \vfill
+        
+        \begin{center}
+            \textbf{г. Владивосток \linebreak2021}
+        \end{center}
+    }
+    \pagebreak
+}
