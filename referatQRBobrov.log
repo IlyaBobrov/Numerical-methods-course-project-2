@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.3.13)  1 JUN 2021 20:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.3.13)  4 JUN 2021 17:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1061,107 +1061,138 @@ Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 142.
 [4]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 173.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 173.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 173.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 174.
+(babel)             in language  on input line 173.
  [5]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 174.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 175.
+(babel)             in language  on input line 174.
+LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 177
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 187.
+(babel)             in language  on input line 219.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 187.
+(babel)             in language  on input line 219.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 219.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 195.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 195.
+(babel)             in language  on input line 219.
  [6]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 237.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 197.
+(babel)             in language  on input line 237.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 237.
 
-Overfull \hbox (12.93553pt too wide) in paragraph at lines 204--205
+[7]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 238.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 238.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 243.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 243.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 282.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 282.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 285.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 285.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 285.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 285.
+ [8]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 322.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 322.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 322.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 322.
+ [9]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 323.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 323.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 375.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 375.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 385.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 385.
+ [10]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 387.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 387.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 392.
+
+Overfull \hbox (12.93553pt too wide) in paragraph at lines 394--395
 []\T2A/cmr/m/n/14.4 инструментальными сред-ства-ми, под-дер-жи-ва-ю-щи-ми раз-р
 а-бот-ку про-
  []
 
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 399.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 399.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 399.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 209.
-[7]
+(babel)             in language  on input line 399.
+[11]
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 214.
+(babel)             in language  on input line 404.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 214.
+(babel)             in language  on input line 404.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 413.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 222.
+(babel)             in language  on input line 413.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 222.
+(babel)             in language  on input line 413.
 Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 222.
+(babel)             in language  on input line 413.
 Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 222.
- [8]
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 227.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 227.
-
-Overfull \hbox (25.4017pt too wide) in paragraph at lines 230--230
-[][]\T2A/cmr/bx/n/17.28 –еализаци€ вы-ше опи-сан-ных ме-то-дов на €зы-ке MATLAB
- 
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 231.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 231.
-LaTeX Font Info:    Try loading font information for T2A+cmtt on input line 233
-.
-(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 238.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 238.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 238.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 238.
- [9]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 240.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 240.
-
-(./referatQRBobrov.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 240.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 240.
+(babel)             in language  on input line 413.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 413.
+ (./referatQRBobrov.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 413.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 413.
 Package rerunfilecheck Info: File `referatQRBobrov.out' has not changed.
-(rerunfilecheck)             Checksum: 8466CA31CC38B87EE49A1C477BDA5647;2037.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 240.
+(rerunfilecheck)             Checksum: 5DA777769974DAEF073F744C712583B8;2192.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 413.
  ) 
 Here is how much of TeX's memory you used:
- 11887 strings out of 492982
- 161157 string characters out of 6134896
+ 11904 strings out of 492982
+ 161340 string characters out of 6134896
  343989 words of memory out of 5000000
- 15276 multiletter control sequences out of 15000+600000
- 15353 words of font info for 39 fonts, out of 8000000 for 9000
+ 15284 multiletter control sequences out of 15000+600000
+ 16466 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  28i,13n,35p,814b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
@@ -1174,11 +1205,13 @@ s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texm
 f/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/public
 /cm-super/sfrm0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on referatQRBobrov.pdf (9 pages, 178784 bytes).
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sftt1440.pfb>
+Output written on referatQRBobrov.pdf (12 pages, 255450 bytes).
 PDF statistics:
- 179 PDF objects out of 1000 (max. 8388607)
- 154 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 212 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 46 named destinations out of 1000 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
